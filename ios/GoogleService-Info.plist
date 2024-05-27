@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1000163153346-eh60ikhvo9kvj524gp5jq5p7l31j905q.apps.googleusercontent.com</string>
+	<string>499538476096-065f9rvet6dmopi2j4ke0oncnpambvog.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1000163153346-eh60ikhvo9kvj524gp5jq5p7l31j905q</string>
+	<string>com.googleusercontent.apps.499538476096-065f9rvet6dmopi2j4ke0oncnpambvog</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>499538476096-3m1r60507jhta6e1s7549go1k49aeqj7.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDjxRDIuTc6ErANoftU-FtgLBSUxMlLCeA</string>
+	<string>AIzaSyCyimc0dtRgr0VEpY3FxaYnzRgJFGAAh8I</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1000163153346</string>
+	<string>499538476096</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.6amMartStore</string>
+	<string>com.store.lolocal</string>
 	<key>PROJECT_ID</key>
-	<string>ammart-8885e</string>
+	<string>lolocal-a010b</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ammart-8885e.appspot.com</string>
+	<string>lolocal-a010b.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1000163153346:ios:f05f70ccbf7831ba06b25b</string>
+	<string>1:499538476096:ios:9170657c6b3c7e626773a5</string>
+	<key>DATABASE_URL</key>
+	<string>https://lolocal-a010b-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
