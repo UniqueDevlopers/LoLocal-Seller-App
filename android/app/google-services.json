@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "499538476096",
+    "firebase_url": "https://lolocal-a010b-default-rtdb.firebaseio.com",
+    "project_id": "lolocal-a010b",
+    "storage_bucket": "lolocal-a010b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499538476096:android:61ce0519c348446a6773a5",
+        "android_client_info": {
+          "package_name": "com.app.lolocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499538476096-da6ne154gf3s84g9149ds8ghhevhd3dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.lolocal",
+            "certificate_hash": "9be1935f9c44ae39d740f8961cb990e585179ba4"
+          }
+        },
+        {
+          "client_id": "499538476096-mv54j7qgd3q4er31kv57ve1q44tdkn73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.lolocal",
+            "certificate_hash": "04a15adabbccb9f77689e6815afd49cfdaef8769"
+          }
+        },
+        {
+          "client_id": "499538476096-u32r1cc6unq5rk18g6il07b52tku7ei1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.lolocal",
+            "certificate_hash": "cf0f8e2bb3ef0e093ea33c25fd2dc8b721f4a532"
+          }
+        },
+        {
+          "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEdYZBmI0RLW0tuubRoqE_PQSsqjdzU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499538476096:android:8164c5aeca7594196773a5",
+        "android_client_info": {
+          "package_name": "com.store.lolocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEdYZBmI0RLW0tuubRoqE_PQSsqjdzU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
